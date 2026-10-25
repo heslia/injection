@@ -4,7 +4,7 @@ Petit injecteur Java pour minecraft
 
 Essayer de pas vous faire ban ^^
 
-J'ai rajouter une version de doomsday cheat patcher pour pouvoir ce faire injecter
+J'ai rajouter une version de doomsday ghost client patcher pour pouvoir ce faire injecter
 mais d'autre cheats peuvent fonctionner (ex: vape)
 
 
