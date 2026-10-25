@@ -1,6 +1,6 @@
 # Inject
 
-Petit injecteur Java qui charge un **Java agent**
+Petit injecteur Java pour minecraft
 
 Essayer de pas vous faire ban ^^
 
